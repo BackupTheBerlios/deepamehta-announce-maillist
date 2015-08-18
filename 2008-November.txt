@@ -1,0 +1,47 @@
+From jri at deepamehta.de  Sat Nov  1 15:24:05 2008
+From: jri at deepamehta.de (=?ISO-8859-1?Q?J=F6rg_Richter?=)
+Date: Sat, 1 Nov 2008 15:24:05 +0100
+Subject: [deepamehta-announce] DeepaMehta 2.0b8 released
+Message-ID: <aac7a3f46152813f874d54fd0d6c230c@deepamehta.de>
+
+
+Dear DeepaMehta Friends,
+
+DeepaMehta 2.0b8 has been released on November 1, 2008 and is available 
+for download.
+New features since DeepaMehta 2.0b7 include:
+
+New features
+	- Remarkably simplified set up (thanks to Enrico Schnepel)
+	   Installing MySQL and "ant" is no longer required
+	- Extended team functions: collaborative editing, automated email 
+notification
+	- New application: shared calendars
+	- Extended email application: reusable distribution lists, several 
+addressing modalities
+	- Usability improvement: easier navigation in search results
+	- For application developers: convenient build and configuration 
+management (thanks to Enrico Schnepel)
+	- For web developers: more flexible HTML generator (thanks to Malte 
+Rei?ig)
+
+Crucial bug fixes
+	- Unicode characters are handled properly
+	- Web applications also run with Tomcat 6
+	- The graphical client preserves linebreaks
+
+Documentation
+	- New in Wiki: Quickstart
+	- New in Wiki: User Guide (thanks to Matthias Melcher)
+	- English and German README files (thanks to Harald M?ller)
+	- License files (thanks to Urs Lerch)
+
+We like to thank all the contributors and supporters.
+
+Best wishes
+J?rg R.
+
+www.deepamehta.de
+
+
+
